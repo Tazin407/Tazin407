@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Tazin
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Learning new things 
 - 🌱 I’m currently learning C++ as a beginner 
 -
 <!---
