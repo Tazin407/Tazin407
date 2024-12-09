@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tazin</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **various DRF full stack projects**
+- 🔭 I’m currently working on **solidifying my backend knowledge more**
 
-- 🌱 I’m currently exploring **competitive programming a bit**
+- 🌱 I’m currently enthusiast about **automation and AI**
 
 - 📫 How to reach me **tazintasnim34@gmail.com**
 
